@@ -12,8 +12,7 @@ I am a Computer Science student at Deakin University, passionate about **softwar
 
 I actively work on projects in **VS Code**, contribute to **GitHub**, and experiment with **Arduino** for hardware programming. Always looking to improve my skills and build innovative projects!  
 
-### Languages && Tools
-# Tools & Technologies Used
+# Languages && Tools
 
 This section showcases the various tools and technologies used in the development of my personal projects.
 
