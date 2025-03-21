@@ -17,8 +17,8 @@ I actively work on projects in **VS Code**, contribute to **GitHub**, and experi
 This section showcases the various tools and technologies used in the development of my personal projects.
 
 ## Programming Languages
-- **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**: Used for implementing algorithms, data structures, and system programming projects.
-- **[Python](https://www.python.org/)**: Used for data analysis, machine learning, and scripting with libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), and [Seaborn](https://seaborn.pydata.org/).
+- **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**:
+- **[Python](https://www.python.org/)**: Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), and [Seaborn](https://seaborn.pydata.org/).
 
 ## Libraries & Frameworks
 - **[Pandas](https://pandas.pydata.org/)**: 
