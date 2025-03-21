@@ -17,26 +17,26 @@ I actively work on projects in **VS Code**, contribute to **GitHub**, and experi
 This section showcases the various tools and technologies used in the development of my personal projects.
 
 ## Programming Languages
-- **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**:
+- **[C++](https://en.wikipedia.org/wiki/C%2B%2B)**
 - **[Python](https://www.python.org/)**: Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), and [Seaborn](https://seaborn.pydata.org/).
 
 ## Libraries & Frameworks
-- **[Pandas](https://pandas.pydata.org/)**: 
-- **[Seaborn](https://seaborn.pydata.org/)**: 
-- **[Matplotlib](https://matplotlib.org/)**: 
-- **[React](https://reactjs.org/)**: 
-- **[Bootstrap](https://getbootstrap.com/)**: 
+- **[Pandas](https://pandas.pydata.org/)**
+- **[Seaborn](https://seaborn.pydata.org/)**
+- **[Matplotlib](https://matplotlib.org/)**
+- **[React](https://reactjs.org/)**
+- **[Bootstrap](https://getbootstrap.com/)**
 
 ## Tools & Environments
-- **[VS Code](https://code.visualstudio.com/)**: 
-- **[Git](https://git-scm.com/)**: 
-- **[GitHub](https://github.com/)**: 
-- **[Jupyter Notebooks](https://jupyter.org/)**: 
+- **[VS Code](https://code.visualstudio.com/)**
+- **[Git](https://git-scm.com/)**
+- **[GitHub](https://github.com/)**
+- **[Jupyter Notebooks](https://jupyter.org/)**
 
 
 ## Version Control
-- **[Git](https://git-scm.com/)**:
-- **[GitHub](https://github.com/)**: 
+- **[Git](https://git-scm.com/)**
+- **[GitHub](https://github.com/)**
 
 ---
 
