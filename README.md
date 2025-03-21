@@ -35,8 +35,8 @@ This section showcases the various tools and technologies used in the developmen
 
 
 ## Version Control
-- **[Git](https://git-scm.com/)**: Distributed version control system for managing project source code and collaboration.
-- **[GitHub](https://github.com/)**: Web-based platform for Git repository hosting, with features for issue tracking, project management, and collaboration.
+- **[Git](https://git-scm.com/)**:
+- **[GitHub](https://github.com/)**: 
 
 ---
 
